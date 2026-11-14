@@ -1,2 +1,2 @@
-# calclatorproject
+# calculatorproject
 calculator using python
